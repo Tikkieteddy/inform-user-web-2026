@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T23:02:32.153Z",
+  "updatedAt": "2026-04-30T23:02:33.644Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -303,15 +303,15 @@
       "x": "",
       "profile": "Content Creator ด้านการเงินและการลงทุน TNN Wealth",
       "team": "Wealth",
-      "supervisorEmail": "Thanawan_Pan@truecorp.co.th",
-      "isNonStaff": true,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/02-01-05-2026.jpg",
       "status": "Upload",
       "submittedAt": "2026-04-30T23:02:32.059Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T23:02:32.059Z",
-      "statusLog": "2026-04-30T23:02:32.059Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-04-30T23:02:33.576Z",
+      "statusLog": "2026-04-30T23:02:32.059Z: Upload\n2026-04-30T23:02:33.576Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "Thanawan_Pan@truecorp.co.th",
+      "isNonStaff": true
     }
   ]
 }
