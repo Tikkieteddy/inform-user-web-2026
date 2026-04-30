@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T06:57:36.453Z",
+  "updatedAt": "2026-04-30T07:13:00.512Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -168,6 +168,30 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "07-30-04-2026",
+      "thaiFirstName": "ธนวัน",
+      "thaiLastName": "ป้นทะโชติ",
+      "englishFirstName": "Thanawan",
+      "englishLastName": "Panthachot",
+      "organizationEmail": "Thanawan_Pan@truecorp.co.th",
+      "personalEmail": "stoplossntv@gmail.com",
+      "facebook": "https://www.facebook.com/share/1cnyxXSQ6K/?mibextid=wwXIfr",
+      "instagram": "https://www.instagram.com/thanawan.pan?igsh=MTZoYnVwOWh2ZTBiaw%3D%3D&utm_source=qr",
+      "tiktok": "https://www.tiktok.com/@moui.moneyclub?_r=1&_t=ZS-95xqBxwhJs8",
+      "x": "https://x.com/moui_thanawan?s=21",
+      "profile": "บรรณาธิการ TNN WEALTH ผู้ดำเนินรายการเศรษฐกิจและการลงทุน นักเขียนหนังสือสูตรลับเซียนหุ้น",
+      "team": "Wealth",
+      "supervisorEmail": "",
+      "isNonStaff": false,
+      "pictureUrl": "",
+      "status": "Upload",
+      "submittedAt": "2026-04-30T07:13:00.400Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-04-30T07:13:00.400Z",
+      "statusLog": "2026-04-30T07:13:00.400Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
