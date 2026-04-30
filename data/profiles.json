@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T04:43:52.151Z",
+  "updatedAt": "2026-04-30T04:43:54.000Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -39,15 +39,15 @@
       "x": "",
       "profile": "Producer TNN WEALTH",
       "team": "Wealth",
-      "supervisorEmail": "",
-      "isNonStaff": false,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/01-30-04-2026.jpg",
       "status": "Upload",
       "submittedAt": "2026-04-30T04:43:52.088Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T04:43:52.088Z",
-      "statusLog": "2026-04-30T04:43:52.088Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-04-30T04:43:53.937Z",
+      "statusLog": "2026-04-30T04:43:52.088Z: Upload\n2026-04-30T04:43:53.937Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "",
+      "isNonStaff": false
     }
   ]
 }
