@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T06:02:38.981Z",
+  "updatedAt": "2026-04-30T06:52:29.861Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -160,11 +160,11 @@
       "profile": "",
       "team": "Online Web",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/06-30-04-2026.jpg",
-      "status": "Upload",
+      "status": "Verify",
       "submittedAt": "2026-04-30T06:02:37.239Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T06:02:38.925Z",
-      "statusLog": "2026-04-30T06:02:37.239Z: Upload\n2026-04-30T06:02:38.925Z: Profile image uploaded",
+      "lastUpdatedAt": "2026-04-30T06:52:29.785Z",
+      "statusLog": "2026-04-30T06:02:37.239Z: Upload\n2026-04-30T06:02:38.925Z: Profile image uploaded\n2026-04-30T06:52:29.785Z: Verify (ใส่ข้อมูล Profile ด้วยครับ)",
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
