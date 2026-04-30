@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T06:54:42.979Z",
+  "updatedAt": "2026-04-30T06:54:49.380Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -88,11 +88,11 @@
       "profile": "นักข่าวออนไลน์ เกาะติดสถานการณ์ประเด็นร้อน ทันเหตุการณ์ ทั้งเรื่องใกล้ตัวและประเด็นสำคัญ",
       "team": "Online Web",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/03-30-04-2026.png",
-      "status": "Upload",
+      "status": "In progress",
       "submittedAt": "2026-04-30T04:50:57.390Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T04:50:58.773Z",
-      "statusLog": "2026-04-30T04:50:57.390Z: Upload\n2026-04-30T04:50:58.773Z: Profile image uploaded",
+      "lastUpdatedAt": "2026-04-30T06:54:49.307Z",
+      "statusLog": "2026-04-30T04:50:57.390Z: Upload\n2026-04-30T04:50:58.773Z: Profile image uploaded\n2026-04-30T06:54:49.307Z: In progress",
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
