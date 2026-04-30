@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T07:16:24.836Z",
+  "updatedAt": "2026-04-30T10:12:07.785Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -216,6 +216,30 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "09-30-04-2026",
+      "thaiFirstName": "มงคล",
+      "thaiLastName": "เกษตรเวทิน",
+      "englishFirstName": "MONGKOL",
+      "englishLastName": "KASETWETIN",
+      "organizationEmail": "thanawan_pan@truecorp.co.th",
+      "personalEmail": "benzho17@gmail.com",
+      "facebook": "Mongkol Kasetwetin",
+      "instagram": "Benzho17",
+      "tiktok": "-",
+      "x": "-",
+      "profile": "Content สายการเงินตัวจริง รอบด้าน ด้วยประสบการณ์แนะนำการลงทุนบล.ชั้นนำ รู้ลึกด้วย Certificate วางแผนการเงิน และวิเคราะห์การลงทุน",
+      "team": "Wealth",
+      "supervisorEmail": "thanawan_pan@truecorp.co.th",
+      "isNonStaff": true,
+      "pictureUrl": "",
+      "status": "Upload",
+      "submittedAt": "2026-04-30T10:12:07.473Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-04-30T10:12:07.473Z",
+      "statusLog": "2026-04-30T10:12:07.473Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
