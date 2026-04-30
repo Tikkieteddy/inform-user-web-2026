@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T05:53:52.992Z",
+  "updatedAt": "2026-04-30T05:53:54.507Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -135,15 +135,15 @@
       "x": "",
       "profile": "",
       "team": "รายการเศรษฐกิจ",
-      "supervisorEmail": "",
-      "isNonStaff": false,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/05-30-04-2026.png",
       "status": "Upload",
       "submittedAt": "2026-04-30T05:53:52.909Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T05:53:52.909Z",
-      "statusLog": "2026-04-30T05:53:52.909Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-04-30T05:53:54.440Z",
+      "statusLog": "2026-04-30T05:53:52.909Z: Upload\n2026-04-30T05:53:54.440Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "",
+      "isNonStaff": false
     }
   ]
 }
