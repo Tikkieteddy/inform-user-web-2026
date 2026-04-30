@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T06:56:32.080Z",
+  "updatedAt": "2026-04-30T06:57:36.453Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -112,11 +112,11 @@
       "profile": "รองบรรณาธิการ TNN Wealth\r\nผู้ประกาศข่าว พิธีกร นักข่าว Content Creator สายเศรษฐกิจ",
       "team": "Wealth",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/04-30-04-2026.png",
-      "status": "In progress",
+      "status": "Completed",
       "submittedAt": "2026-04-30T05:51:52.581Z",
-      "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T06:56:31.995Z",
-      "statusLog": "2026-04-30T05:51:52.581Z: Upload\n2026-04-30T05:51:54.341Z: Profile image uploaded\n2026-04-30T06:56:31.995Z: In progress",
+      "completedAt": "2026-04-30T06:57:36.364Z",
+      "lastUpdatedAt": "2026-04-30T06:57:36.364Z",
+      "statusLog": "2026-04-30T05:51:52.581Z: Upload\n2026-04-30T05:51:54.341Z: Profile image uploaded\n2026-04-30T06:56:31.995Z: In progress\n2026-04-30T06:57:36.364Z: Completed",
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
