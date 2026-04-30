@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T04:43:54.000Z",
+  "updatedAt": "2026-04-30T04:49:51.834Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -48,6 +48,30 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "02-30-04-2026",
+      "thaiFirstName": "ชญาภา",
+      "thaiLastName": "ภักดีศรี",
+      "englishFirstName": "Chayapha",
+      "englishLastName": "Pakdeesri",
+      "organizationEmail": "Chayapha_pak@truecorp.co.th",
+      "personalEmail": "Chayapha_pak@truecorp.co.th",
+      "facebook": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "profile": "นักข่าวสายโซเชียล รายงานข่าวประเด็นสังคมและความเคลื่อนไหว เน้นการนำเสนอการสรุปข้อมูลที่รวดเร็ว ชัดเจน และเข้าใจง่าย",
+      "team": "Online Web",
+      "supervisorEmail": "",
+      "isNonStaff": false,
+      "pictureUrl": "",
+      "status": "Upload",
+      "submittedAt": "2026-04-30T04:49:51.763Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-04-30T04:49:51.763Z",
+      "statusLog": "2026-04-30T04:49:51.763Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
