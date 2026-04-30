@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T15:14:41.364Z",
+  "updatedAt": "2026-04-30T04:43:52.151Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -24,6 +24,30 @@
       "supervisorApprovedAt": "APPROVED:2026-04-29T15:14:41.259Z",
       "supervisorEmail": "teddydakkie@gmail.com",
       "isNonStaff": true
+    },
+    {
+      "queue": "01-30-04-2026",
+      "thaiFirstName": "พงษ์ธร",
+      "thaiLastName": "ทวีพฤกษ์สกุล",
+      "englishFirstName": "Pongthorn",
+      "englishLastName": "Taveepluksakul",
+      "organizationEmail": "Pongthorn_Tav@truecorp.co.th",
+      "personalEmail": "thorn_t@hotmail.com",
+      "facebook": "Pongthorn Taveepluksakul",
+      "instagram": "Pongthorn Taveepluksakul",
+      "tiktok": "Pongthorn Taveepluksakul",
+      "x": "",
+      "profile": "Producer TNN WEALTH",
+      "team": "Wealth",
+      "supervisorEmail": "",
+      "isNonStaff": false,
+      "pictureUrl": "",
+      "status": "Upload",
+      "submittedAt": "2026-04-30T04:43:52.088Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-04-30T04:43:52.088Z",
+      "statusLog": "2026-04-30T04:43:52.088Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
