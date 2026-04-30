@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T19:25:18.590Z",
+  "updatedAt": "2026-04-30T23:02:32.153Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -288,6 +288,30 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "02-01-05-2026",
+      "thaiFirstName": "ธนานันท์",
+      "thaiLastName": "แก้ววิเศษ",
+      "englishFirstName": "THANANAN",
+      "englishLastName": "KAEWWISET",
+      "organizationEmail": "Thanawan_Pan@truecorp.co.th",
+      "personalEmail": "m.thananan1531@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "profile": "Content Creator ด้านการเงินและการลงทุน TNN Wealth",
+      "team": "Wealth",
+      "supervisorEmail": "Thanawan_Pan@truecorp.co.th",
+      "isNonStaff": true,
+      "pictureUrl": "",
+      "status": "Upload",
+      "submittedAt": "2026-04-30T23:02:32.059Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-04-30T23:02:32.059Z",
+      "statusLog": "2026-04-30T23:02:32.059Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
