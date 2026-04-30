@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T07:13:00.512Z",
+  "updatedAt": "2026-04-30T07:13:02.590Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -183,15 +183,15 @@
       "x": "https://x.com/moui_thanawan?s=21",
       "profile": "บรรณาธิการ TNN WEALTH ผู้ดำเนินรายการเศรษฐกิจและการลงทุน นักเขียนหนังสือสูตรลับเซียนหุ้น",
       "team": "Wealth",
-      "supervisorEmail": "",
-      "isNonStaff": false,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/07-30-04-2026.jpeg",
       "status": "Upload",
       "submittedAt": "2026-04-30T07:13:00.400Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T07:13:00.400Z",
-      "statusLog": "2026-04-30T07:13:00.400Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-04-30T07:13:02.492Z",
+      "statusLog": "2026-04-30T07:13:00.400Z: Upload\n2026-04-30T07:13:02.492Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "",
+      "isNonStaff": false
     }
   ]
 }
