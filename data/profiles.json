@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T12:39:45.483Z",
+  "updatedAt": "2026-04-30T12:39:47.232Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -255,15 +255,15 @@
       "x": "",
       "profile": "จากอดีตช่างภาพภาคสนาม ที่จับพลัดจับผลูมาเป็นโปรดิวเซอร์สายเศรษฐกิจ แม้ไม่ได้เชี่ยวชาญการลงทุน แต่ถนัดย่อยกราฟหุ้นยากๆ ให้เป็นคอนเทนต์เข้าใจง่าย ขับเคลื่อนชีวิตด้วยอเมริกาโน่เย็นไม่หวาน",
       "team": "Wealth",
-      "supervisorEmail": "",
-      "isNonStaff": false,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/10-30-04-2026.jpg",
       "status": "Upload",
       "submittedAt": "2026-04-30T12:39:45.347Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T12:39:45.347Z",
-      "statusLog": "2026-04-30T12:39:45.347Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-04-30T12:39:47.146Z",
+      "statusLog": "2026-04-30T12:39:45.347Z: Upload\n2026-04-30T12:39:47.146Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "",
+      "isNonStaff": false
     }
   ]
 }
