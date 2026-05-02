@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T00:41:34.169Z",
+  "updatedAt": "2026-05-02T00:41:35.395Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -327,15 +327,15 @@
       "x": "",
       "profile": "บรรณาธิการ TNN Tech Online",
       "team": "Tech",
-      "supervisorEmail": "",
-      "isNonStaff": false,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/01-02-05-2026.webp",
       "status": "Upload",
       "submittedAt": "2026-05-02T00:41:34.099Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-05-02T00:41:34.099Z",
-      "statusLog": "2026-05-02T00:41:34.099Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-05-02T00:41:35.329Z",
+      "statusLog": "2026-05-02T00:41:34.099Z: Upload\n2026-05-02T00:41:35.329Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "",
+      "isNonStaff": false
     }
   ]
 }
