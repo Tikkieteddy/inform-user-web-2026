@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T00:41:35.395Z",
+  "updatedAt": "2026-05-05T14:33:07.701Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -336,6 +336,30 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "01-05-05-2026",
+      "thaiFirstName": "ทิฆัมพร",
+      "thaiLastName": "อยู่กำเหนิด",
+      "englishFirstName": "Thikhamphon",
+      "englishLastName": "Yukamnoet",
+      "organizationEmail": "thikhamphon.yukamnoet@truecorp.co.th",
+      "personalEmail": "nazzyforwork@gmail.com",
+      "facebook": "https://www.facebook.com/nazzyreporter/",
+      "instagram": "",
+      "tiktok": "https://www.tiktok.com/@nazzy_news_tiktok",
+      "x": "",
+      "profile": "รองบรรณาธิการ TNN Wealth / ผู้ประกาศข่าว พิธีกร นักข่าว Content Creator สายเศรษฐกิจ",
+      "team": "Wealth",
+      "supervisorEmail": "",
+      "isNonStaff": false,
+      "pictureUrl": "",
+      "status": "Upload",
+      "submittedAt": "2026-05-05T14:33:07.569Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-05-05T14:33:07.569Z",
+      "statusLog": "2026-05-05T14:33:07.569Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
