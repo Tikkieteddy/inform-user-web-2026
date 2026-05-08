@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T07:17:42.951Z",
+  "updatedAt": "2026-05-08T07:38:50.881Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -262,11 +262,11 @@
       "profile": "Content สายการเงินตัวจริง รอบด้าน ด้วยประสบการณ์แนะนำการลงทุนบล.ชั้นนำ รู้ลึกด้วย Certificate วางแผนการเงิน และวิเคราะห์การลงทุน",
       "team": "Wealth",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/09-30-04-2026.jpg",
-      "status": "Upload",
+      "status": "Completed",
       "submittedAt": "2026-04-30T10:12:07.473Z",
-      "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T10:12:10.174Z",
-      "statusLog": "2026-04-30T10:12:07.473Z: Upload\n2026-04-30T10:12:10.174Z: Profile image uploaded",
+      "completedAt": "2026-05-08T07:38:50.804Z",
+      "lastUpdatedAt": "2026-05-08T07:38:50.804Z",
+      "statusLog": "2026-04-30T10:12:07.473Z: Upload\n2026-04-30T10:12:10.174Z: Profile image uploaded\n2026-05-08T07:38:50.804Z: Completed",
       "supervisorApprovedAt": "",
       "supervisorEmail": "thanawan_pan@truecorp.co.th",
       "isNonStaff": true
