@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T07:44:12.057Z",
+  "updatedAt": "2026-05-13T07:46:37.419Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -432,37 +432,6 @@
       "completedAt": "",
       "lastUpdatedAt": "2026-05-05T14:33:09.862Z",
       "statusLog": "2026-05-05T14:33:07.569Z: Upload\n2026-05-05T14:33:09.862Z: Profile image uploaded",
-      "supervisorApprovedAt": "",
-      "supervisorEmail": "",
-      "isNonStaff": false
-    },
-    {
-      "queue": "01-13-05-2026",
-      "userAccess": "มีแล้ว",
-      "thaiFirstName": "กกก",
-      "thaiLastName": "กกก",
-      "englishFirstName": "กกก",
-      "englishLastName": "กกก",
-      "nickname": "",
-      "organizationEmail": "tkkithman@gmail.com",
-      "personalEmail": "",
-      "creatorTypes": [
-        "creator"
-      ],
-      "newscasterProgram": "",
-      "facebook": "",
-      "instagram": "",
-      "tiktok": "",
-      "x": "",
-      "profile": "",
-      "team": "Outsource",
-      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/01-13-05-2026.png",
-      "status": "In progress",
-      "listStatus": "Active",
-      "submittedAt": "2026-05-13T07:41:36.168Z",
-      "completedAt": "",
-      "lastUpdatedAt": "2026-05-13T07:44:11.946Z",
-      "statusLog": "2026-05-13T07:41:36.168Z: Upload\n2026-05-13T07:41:38.244Z: Profile image uploaded\n2026-05-13T07:41:54.073Z: User edited profile\n2026-05-13T07:43:30.304Z: Verify (กรณีเพิ่มข้อมูล profile)\n2026-05-13T07:44:11.946Z: In progress (ได้รับข้อมุลแล้วอยู่ระหว่างดำเนินการ)",
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
