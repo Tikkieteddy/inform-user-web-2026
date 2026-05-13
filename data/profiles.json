@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T07:48:07.543Z",
+  "updatedAt": "2026-05-13T08:46:31.446Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -194,12 +194,12 @@
       "profile": "",
       "team": "Online Web",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/06-30-04-2026.jpg",
-      "status": "Verify",
+      "status": "Completed",
       "listStatus": "Active",
       "submittedAt": "2026-04-30T06:02:37.239Z",
-      "completedAt": "",
-      "lastUpdatedAt": "2026-04-30T06:52:29.785Z",
-      "statusLog": "2026-04-30T06:02:37.239Z: Upload\n2026-04-30T06:02:38.925Z: Profile image uploaded\n2026-04-30T06:52:29.785Z: Verify (ใส่ข้อมูล Profile ด้วยครับ)",
+      "completedAt": "2026-05-13T08:46:31.352Z",
+      "lastUpdatedAt": "2026-05-13T08:46:31.352Z",
+      "statusLog": "2026-04-30T06:02:37.239Z: Upload\n2026-04-30T06:02:38.925Z: Profile image uploaded\n2026-04-30T06:52:29.785Z: Verify (ใส่ข้อมูล Profile ด้วยครับ)\n2026-05-13T08:46:31.352Z: Completed (ดำเนินการ add user access เรียบร้อย\nสามารถlog in ผ่านระบบ  https://cms.tnnthailand.com/\nโดย กด forget password เพื่อเปลี่ยนpassword\n\nกรุณา add profile รายละเอียดกรอกข้อมูล profile กลับมาอีกครั้ง เพื่อสร้าง\ncreator)",
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
