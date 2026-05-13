@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T07:46:37.419Z",
+  "updatedAt": "2026-05-13T07:48:05.309Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -435,6 +435,37 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "01-13-05-2026",
+      "userAccess": "มีแล้ว",
+      "thaiFirstName": "ศลิล",
+      "thaiLastName": "ศักดิ์ณรงค์",
+      "englishFirstName": "Salin",
+      "englishLastName": "Saknarong",
+      "nickname": "",
+      "organizationEmail": "salin_sak@truecorp.co.th",
+      "personalEmail": "",
+      "creatorTypes": [
+        "creator"
+      ],
+      "newscasterProgram": "",
+      "facebook": "",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "profile": "",
+      "team": "รายการเศรษฐกิจ",
+      "supervisorEmail": "",
+      "isNonStaff": false,
+      "pictureUrl": "",
+      "status": "Upload",
+      "listStatus": "Active",
+      "submittedAt": "2026-05-13T07:48:05.220Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-05-13T07:48:05.220Z",
+      "statusLog": "2026-05-13T07:48:05.220Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
