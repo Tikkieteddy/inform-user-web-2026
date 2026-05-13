@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T07:08:29.135Z",
+  "updatedAt": "2026-05-13T07:12:40.562Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -165,12 +165,12 @@
       "profile": "",
       "team": "รายการเศรษฐกิจ",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/05-30-04-2026.png",
-      "status": "In progress",
+      "status": "Completed",
       "listStatus": "Active",
       "submittedAt": "2026-04-30T05:53:52.909Z",
-      "completedAt": "",
-      "lastUpdatedAt": "2026-05-13T07:08:29.030Z",
-      "statusLog": "2026-04-30T05:53:52.909Z: Upload\n2026-04-30T05:53:54.440Z: Profile image uploaded\n2026-04-30T06:52:39.269Z: Verify (ใส่ข้อมูล Profile ด้วยครับ)\n2026-05-13T07:08:29.030Z: In progress",
+      "completedAt": "2026-05-13T07:12:40.478Z",
+      "lastUpdatedAt": "2026-05-13T07:12:40.478Z",
+      "statusLog": "2026-04-30T05:53:52.909Z: Upload\n2026-04-30T05:53:54.440Z: Profile image uploaded\n2026-04-30T06:52:39.269Z: Verify (ใส่ข้อมูล Profile ด้วยครับ)\n2026-05-13T07:08:29.030Z: In progress\n2026-05-13T07:12:40.478Z: Completed",
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
