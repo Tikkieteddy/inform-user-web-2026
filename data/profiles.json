@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T07:41:36.265Z",
+  "updatedAt": "2026-05-13T07:41:38.331Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -456,16 +456,16 @@
       "x": "",
       "profile": "",
       "team": "Outsource",
-      "supervisorEmail": "",
-      "isNonStaff": false,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/01-13-05-2026.png",
       "status": "Upload",
       "listStatus": "Active",
       "submittedAt": "2026-05-13T07:41:36.168Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-05-13T07:41:36.168Z",
-      "statusLog": "2026-05-13T07:41:36.168Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-05-13T07:41:38.244Z",
+      "statusLog": "2026-05-13T07:41:36.168Z: Upload\n2026-05-13T07:41:38.244Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "",
+      "isNonStaff": false
     }
   ]
 }
