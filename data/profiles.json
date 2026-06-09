@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T08:03:37.429Z",
+  "updatedAt": "2026-06-09T15:08:56.737Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -466,6 +466,37 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "01-09-06-2026",
+      "userAccess": "ขอเพิ่ม",
+      "thaiFirstName": "พีรพงศ์",
+      "thaiLastName": "ทองอยู่เลิศ",
+      "englishFirstName": "PEERAPONG",
+      "englishLastName": "THONGYULERT",
+      "nickname": "",
+      "organizationEmail": "peerapongthongyulert@gmail.com",
+      "personalEmail": "peerapongthongyulert@gmail.com",
+      "creatorTypes": [
+        "creator"
+      ],
+      "newscasterProgram": "",
+      "facebook": "Tottao Peerapong",
+      "instagram": "tottao_sss",
+      "tiktok": "tottao",
+      "x": "",
+      "profile": "อดีต บรรณาธิการข่าวกีฬา SIAMSPORT ออนไลน์ และ ผู้สื่อข่าวสยามกีฬา และ siamsport.com",
+      "team": "Online Web",
+      "supervisorEmail": "kaowrote_suk@truecorp.co.th",
+      "isNonStaff": true,
+      "pictureUrl": "",
+      "status": "Upload",
+      "listStatus": "Active",
+      "submittedAt": "2026-06-09T15:08:56.629Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-06-09T15:08:56.629Z",
+      "statusLog": "2026-06-09T15:08:56.629Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
