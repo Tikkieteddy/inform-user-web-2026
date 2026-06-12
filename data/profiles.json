@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T16:12:03.159Z",
+  "updatedAt": "2026-06-12T04:44:44.262Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -488,12 +488,12 @@
       "profile": "อดีต บรรณาธิการข่าวกีฬา SIAMSPORT ออนไลน์ และ ผู้สื่อข่าวสยามกีฬา และ siamsport.com",
       "team": "Online Web",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/01-09-06-2026.jpg",
-      "status": "Upload",
+      "status": "Completed",
       "listStatus": "Active",
       "submittedAt": "2026-06-09T15:08:56.629Z",
-      "completedAt": "",
-      "lastUpdatedAt": "2026-06-09T15:08:59.250Z",
-      "statusLog": "2026-06-09T15:08:56.629Z: Upload\n2026-06-09T15:08:59.250Z: Profile image uploaded",
+      "completedAt": "2026-06-12T04:44:44.179Z",
+      "lastUpdatedAt": "2026-06-12T04:44:44.179Z",
+      "statusLog": "2026-06-09T15:08:56.629Z: Upload\n2026-06-09T15:08:59.250Z: Profile image uploaded\n2026-06-12T04:44:44.179Z: Completed (เสร็จสมบูรณ์)",
       "supervisorApprovedAt": "",
       "supervisorEmail": "kaowrote_suk@truecorp.co.th",
       "isNonStaff": true
