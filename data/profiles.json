@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T05:54:46.295Z",
+  "updatedAt": "2026-08-10T05:55:50.688Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -559,6 +559,37 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "02-10-08-2026",
+      "userAccess": "ขอเพิ่ม",
+      "thaiFirstName": "ปิ่นปัก",
+      "thaiLastName": "โชติกะพุกกณะ",
+      "englishFirstName": "Pinpak",
+      "englishLastName": "Jotikabukkana",
+      "nickname": "Pinpak Jotikabukkana",
+      "organizationEmail": "pjotikabukkana@gmail.com",
+      "personalEmail": "pjotikabukkana@gmail.com",
+      "creatorTypes": [
+        "creator"
+      ],
+      "newscasterProgram": "",
+      "facebook": "https://www.facebook.com/SophiaBagaBa",
+      "instagram": "",
+      "tiktok": "",
+      "x": "",
+      "profile": "",
+      "team": "Tech",
+      "supervisorEmail": "Peerapat_Chue@truecorp.co.th",
+      "isNonStaff": true,
+      "pictureUrl": "",
+      "status": "Upload",
+      "listStatus": "Active",
+      "submittedAt": "2026-08-10T05:55:50.575Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-08-10T05:55:50.575Z",
+      "statusLog": "2026-08-10T05:55:50.575Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
