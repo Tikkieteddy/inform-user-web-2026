@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:44:44.262Z",
+  "updatedAt": "2026-08-10T05:54:43.390Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -528,6 +528,37 @@
       "supervisorApprovedAt": "",
       "supervisorEmail": "",
       "isNonStaff": false
+    },
+    {
+      "queue": "01-10-08-2026",
+      "userAccess": "มีแล้ว",
+      "thaiFirstName": "ทิฆัมพร",
+      "thaiLastName": "อยู่กำเหนิด",
+      "englishFirstName": "thikhamphon",
+      "englishLastName": "yukamnoet",
+      "nickname": "แนส nazz",
+      "organizationEmail": "thikhamphon.yukamnoet@true.corp.co.th",
+      "personalEmail": "thenazztv3@gmail.com",
+      "creatorTypes": [
+        "creator"
+      ],
+      "newscasterProgram": "",
+      "facebook": "https://www.facebook.com/nazzyreporter",
+      "instagram": "",
+      "tiktok": "https://www.tiktok.com/@nazzyreporter",
+      "x": "",
+      "profile": "รองบรรณาธิการ TNN WEALTH \r\nผู้ประกาศข่าว พิธีกรข่าว สายเศรษฐกิจ \r\nอดีตนักข่าวภาคสนาม",
+      "team": "Wealth",
+      "supervisorEmail": "",
+      "isNonStaff": false,
+      "pictureUrl": "",
+      "status": "Upload",
+      "listStatus": "Active",
+      "submittedAt": "2026-08-10T05:54:43.145Z",
+      "completedAt": "",
+      "lastUpdatedAt": "2026-08-10T05:54:43.145Z",
+      "statusLog": "2026-08-10T05:54:43.145Z: Upload",
+      "supervisorApprovedAt": ""
     }
   ]
 }
