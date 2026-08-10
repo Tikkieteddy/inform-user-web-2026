@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T05:55:50.688Z",
+  "updatedAt": "2026-08-10T05:55:52.604Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -580,16 +580,16 @@
       "x": "",
       "profile": "",
       "team": "Tech",
-      "supervisorEmail": "Peerapat_Chue@truecorp.co.th",
-      "isNonStaff": true,
-      "pictureUrl": "",
+      "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/02-10-08-2026.jpg",
       "status": "Upload",
       "listStatus": "Active",
       "submittedAt": "2026-08-10T05:55:50.575Z",
       "completedAt": "",
-      "lastUpdatedAt": "2026-08-10T05:55:50.575Z",
-      "statusLog": "2026-08-10T05:55:50.575Z: Upload",
-      "supervisorApprovedAt": ""
+      "lastUpdatedAt": "2026-08-10T05:55:52.508Z",
+      "statusLog": "2026-08-10T05:55:50.575Z: Upload\n2026-08-10T05:55:52.508Z: Profile image uploaded",
+      "supervisorApprovedAt": "",
+      "supervisorEmail": "Peerapat_Chue@truecorp.co.th",
+      "isNonStaff": true
     }
   ]
 }
