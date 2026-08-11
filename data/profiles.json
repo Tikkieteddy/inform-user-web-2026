@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T05:57:42.363Z",
+  "updatedAt": "2026-08-11T02:28:25.816Z",
   "records": [
     {
       "queue": "01-29-04-2026",
@@ -581,12 +581,12 @@
       "profile": "",
       "team": "Tech",
       "pictureUrl": "https://raw.githubusercontent.com/Tikkieteddy/inform-user-web-2026/main/profile-images/02-10-08-2026.jpg",
-      "status": "Upload",
+      "status": "Completed",
       "listStatus": "Active",
       "submittedAt": "2026-08-10T05:55:50.575Z",
-      "completedAt": "",
-      "lastUpdatedAt": "2026-08-10T05:55:52.508Z",
-      "statusLog": "2026-08-10T05:55:50.575Z: Upload\n2026-08-10T05:55:52.508Z: Profile image uploaded\n2026-08-10T05:57:42.244Z: Supervisor approved",
+      "completedAt": "2026-08-11T02:28:25.677Z",
+      "lastUpdatedAt": "2026-08-11T02:28:25.677Z",
+      "statusLog": "2026-08-10T05:55:50.575Z: Upload\n2026-08-10T05:55:52.508Z: Profile image uploaded\n2026-08-10T05:57:42.244Z: Supervisor approved\n2026-08-11T02:28:25.677Z: Completed (เปิดสิทธิ์เข้าใช้งาน https://cms.tnnthailand.com/ เรียบร้อย \nusernamne pjotikabukkana@gmail.com\npasswordเริ่มต้น   123456789\nกรุณาคลิก Forget password? ที่หน้า log in เปลี่ยนpassword ด้วยตนเองเพื่อป้องกันถูกแฮ็ก)",
       "supervisorApprovedAt": "APPROVED:2026-08-10T05:57:42.244Z",
       "supervisorEmail": "Peerapat_Chue@truecorp.co.th",
       "isNonStaff": true
